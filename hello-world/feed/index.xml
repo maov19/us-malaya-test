@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for US Malaya	</title>
-	<atom:link href="https://maov19.github.io/us-malaya-test/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maov19.github.io/us-malaya-test/</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://maov19.github.io/us-malaya-test/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://maov19.github.io/us-malaya-test/hello-world/</link>
 	<description>US at your doorstep</description>
 	<lastBuildDate>Sat, 02 Sep 2023 16:35:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://maov19.github.io/us-malaya-test/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
