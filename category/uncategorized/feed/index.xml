@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; US Malaya</title>
+	<atom:link href="http://maov19.github.io/um-static/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://maov19.github.io/um-static/</link>
+	<description>US at your doorstep</description>
+	<lastBuildDate>Sat, 02 Sep 2023 16:35:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>http://maov19.github.io/um-static/wp-content/uploads/2023/10/cropped-logo-no-image-removebg-32x32.png</url>
+	<title>Uncategorized &#8211; US Malaya</title>
+	<link>http://maov19.github.io/um-static/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>http://maov19.github.io/um-static/hello-world/</link>
+					<comments>http://maov19.github.io/um-static/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[martin]]></dc:creator>
+		<pubDate>Sat, 02 Sep 2023 16:35:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://maov19.github.io/um-static/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://maov19.github.io/um-static/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
